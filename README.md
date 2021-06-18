@@ -15,7 +15,7 @@
 
 | 파일                                     | 비고                                       |
 | ---------------------------------------- | ------------------------------------------ |
-| [별 헤는 밤.md](./별 헤는 밤.md)         | '별 헤는 밤' 문제 명세                     |
+| [problem.md](./problem.md)               | '별 헤는 밤' 문제 명세                     |
 | [sample_input.txt](./sample_input.txt)   | 샘플 테스트케이스용 5개 sample input       |
 | [sample_output.txt](./sample_output.txt) | 샘플 테스트케이스용 5개 sample ouput       |
 | [eval_input.txt](./eval_input.txt)       | 평가 테스트케이스용 50개 evaluation input  |
